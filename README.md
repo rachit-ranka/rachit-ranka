@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rachit</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="center"> <a href="https://twitter.com/rachit_45" target="blank"><img src="https://img.shields.io/twitter/follow/rachit_45?logo=twitter&style=for-the-badge" alt="rachit_45" /></a> </p>
+<p align="center"> <a href="https://twitter.com/rachitstwt_" target="blank"><img src="https://img.shields.io/twitter/follow/rachit_45?logo=twitter&style=for-the-badge" alt="rachit_45" /></a> </p>
 
 - 🌱 I’m currently learning **Bootstrap**
 
