@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-- 🌱 I’m currently learning **Bootstrap**
+- 🌱 I’m currently learning about **JavaScript**
 
 - 👨‍💻 All of my projects are available [here](https://fueler.io/rachit.04/work)
 
@@ -11,8 +11,6 @@
 - 📫 How to reach me **rranka45@gmail.com**
 
 - 📄 Know about my experiences [here](https://fueler.io/rachit.04)
-
-- ⚡ Fun fact **I think I am a genius**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
