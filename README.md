@@ -2,11 +2,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-- 🌱 I’m currently learning about **JavaScript**
+- 🌱 I’m currently learning about **Machine Learning**
 
 - 👨‍💻 All of my projects are available [here](https://fueler.io/rachit.04/work)
-
-- 💬 Ask me about **HTML and CSS**
 
 - 📫 How to reach me **rranka45@gmail.com**
 
