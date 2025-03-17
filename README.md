@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 
-- 🌱 I’m currently learning about **Machine Learning**
+- 🌱 I’m currently learning about **Neural Nets**
 
 - 👨‍💻 All of my projects are available [here](https://fueler.io/rachit.04/work)
 
